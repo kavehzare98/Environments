@@ -24,10 +24,14 @@ Aliased to: `random_off`
 ## ROS2 Specific
 
 ### Sourcing the environment
-`jazzy`
-`humble`
+Aliased to: `jazzy`
+
+Aliased to: `humble`
+
 `export ROS_DOMAIN_ID=0`
 
 ## Running DistroBox for Container (Ubuntu 22)
 `distrobox enter roboracer-env`
+
+Aliased to: `robo`
 
